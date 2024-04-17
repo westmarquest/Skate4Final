@@ -1,4 +1,4 @@
-# Skate 4 
+# Skate 4
 
 Welcome to Skate, the application designed to help skateboard enthusiasts track their progress in mastering various tricks!
 
@@ -14,14 +14,13 @@ Welcome to Skate, the application designed to help skateboard enthusiasts track 
 
 To get started with Skate 4 Progress Tracker, visit the below webpage:
 
-
 1. Access the app in your web browser at
-    `http://localhost:3000`
+   `http://localhost:3000`
 
 ## Features
+
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: Passport.js (or your preferred authentication library)
 - **Charting Library**: Chart.js (for visualizing progress on the graph), Mapbox (for viewing skate locations)
-
