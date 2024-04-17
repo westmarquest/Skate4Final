@@ -7,7 +7,7 @@ Welcome to Skate, the application designed to help skateboard enthusiasts track 
 - **Account Creation**: Users can easily create an account by providing their email, username, and password.
 - **Login System**: Secure authentication ensures that only registered users can access their data.
 - **Trick Checklist**: Users are presented with a comprehensive checklist of 15 skateboard tricks.
-- **Progress Tracking**: Visualize your progress on a graph with markers appearing every 3 completed tricks. To save your status, click the save button located on the top left of the screen and refresh the page to view saved rank.
+- **Progress Tracking**: Visualize your progress utilizing the checkboxes to the left of the tricks with rank incrementing every 3 tricks. To save your status, click the save button located on the top left of the screen and refresh the page to view saved rank.
 - **Database Integration**: User data, including email, password, username, and trick completion status, are securely stored in a database.
 
 ## Installation
